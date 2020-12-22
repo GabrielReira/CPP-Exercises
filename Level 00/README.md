@@ -2,8 +2,8 @@
 
 O level 0 é composto por exercícios de expressões aritméticas, if-else e loop.
 
-Todos exercícios desta seção foram concedidos gentilmente por Rubisley de Paula Lemes,
-docente do **Grupo de Programação** da Universidade Federal da Bahia Campus (UFBA).
+Todos exercícios desta seção foram concedidos gentilmente por Rubisley Lemes,
+docente do **Grupo de Programação** da Universidade Federal da Bahia (UFBA).
 
 
 ---
